@@ -1,5 +1,6 @@
 ### Hello Chaos World, I'm Assassin Dev:
 
+<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
@@ -11,10 +12,8 @@
 - 💬 Ask me about Anything [here](https://github.com/assassindev421/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
-
 <br/>
 <br/>
-
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
@@ -22,18 +21,12 @@
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p>
 
-
-
-
 #
 
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-
 **LANGUAGES AND TOOLS:**  
-
-
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
@@ -71,10 +64,6 @@
 </p>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
-
-
 <br/>
 
 ### ⚙️ &nbsp; GitHub Analytics
@@ -86,11 +75,7 @@
 </a>
 </p>
 
-
-
 <div align="center">
-
-
 <br/>
 
 ------

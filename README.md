@@ -106,4 +106,4 @@
 <br/>
 
 ------
-Credits: [smir45](https://github.com/assassindev421)
+Credits: [AssassinDev](https://github.com/assassindev421)

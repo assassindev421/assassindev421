@@ -1,4 +1,4 @@
-### Hello Chaos World <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />, I'm Assassin Dev:
+### Hello Chaos World, I'm Assassin Dev:
 
 <br/>
 <br/>

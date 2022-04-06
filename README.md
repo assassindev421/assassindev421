@@ -1,4 +1,4 @@
-### Hello World, I'm Samir Mishra:
+### Hello Chaos World, I'm Assassin Dev:
 
 <h1 align="center">
   <a target="_blank">
@@ -16,11 +16,11 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
+- 🔭 I’m currently working on **Blockchain Development**
+- 🌱 I’m currently struggling with **Core Challenges**
+- 👯 I’m looking to collaborate on **Chain Development**
+- 🤔 I’m looking for with **Senior Jobs**
+- 💬 Ask me about Anything [here](https://github.com/assassindev421/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
 

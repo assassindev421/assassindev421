@@ -2,7 +2,7 @@
 
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" margin-top="-95" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="250" width="400" style="border:1px solid #000;" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
 - 🔭 I’m currently working on **Blockchain Development**
